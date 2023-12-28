@@ -1,0 +1,966 @@
+Name,Price,Drive-type,Fuel-type,Transmission,Engine,Mileague
+2023 BMW 540 i xDrive,72320,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,9
+2014 BMW i3 Base wRange Extender,11991,Rear-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2021 Volkswagen Jetta 1.4T R-Line,24592,Front-wheel Drive,Gasoline,8-Speed Automatic,1.4L I4 16V GDI DOHC Turbo,20580
+2012 Volkswagen Passat 2.5 SE,9991,Front-wheel Drive,Gasoline,6-Speed Automatic,2.5L I5 20V MPFI DOHC,99111
+2017 Mercedes-Benz E-Class E 300 4MATIC,27491,All-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,49497
+2021 Volkswagen ID.4 Pro,31991,Rear-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2019 Kia Sportage LX,18591,All-wheel Drive,Gasoline,6-Speed Automatic,2.4L I4 16V GDI DOHC,37653
+2017 Volkswagen e-Golf SEL Premium,19591,Front-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2022 Volkswagen Golf R 2.0T,52991,All-wheel Drive,Gasoline,8-Speed Automatic with Tiptronic,NoInfo,7831
+2018 Volkswagen Atlas 3.6L SE,18591,Front-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,90528
+2022 Volkswagen Golf GTI 2.0T Autobahn,36491,Front-wheel Drive,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,12408
+2015 Volkswagen Tiguan Auto S,11491,Front-wheel Drive,Gasoline,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,99168
+2020 Volkswagen Golf GTI 2.0T Autobahn,32491,Front-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,8574
+2019 Volkswagen Golf GTI 2.0T S,25991,Front-wheel Drive,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,30336
+2014 Ford C-Max Hybrid SE,13591,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,33450
+2013 Volkswagen Passat 2.0 TDI SE,8491,Front-wheel Drive,Diesel,6-Speed Automatic with Auto-Shift,2.0L I4 16V DDI DOHC Turbo Diesel,112421
+2015 Audi Q5 2.0T Premium Plus,17291,All-wheel Drive,E85 Flex Fuel,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,79313
+2022 Lexus LS 500 F Sport,88660,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,604
+2022 Lexus RX 350 F SPORT Appearance,59307,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,9474
+2023 Lexus LS 500 Base,104510,All-wheel Drive,Gasoline,10-Speed Automatic,3.4L V6 24V PDI DOHC Twin Turbo,
+2023 Lexus LS 500 Base,104510,All-wheel Drive,Gasoline,10-Speed Automatic,3.4L V6 24V PDI DOHC Twin Turbo,
+2022 Honda Civic Sport,25895,Front-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,28043
+2023 Acura TLX A-Spec,50595,All-wheel Drive,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,5
+2019 Acura MDX 3.5L,31995,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,38261
+2021 Ford Bronco Sport Badlands,34988,Four-wheel Drive,Gasoline,Automatic,EcoBoost 2L I-4 gasoline direct injection DOHC DEVCT variable,18648
+2006 Porsche 911 Carrera Cabriolet,34988,Rear-wheel Drive,Gasoline,Automatic,3.8L H-6 DOHC VarioCam Plus variable valve control engine with,101002
+2018 BMW X3 M40i,33937,All-wheel Drive,Gasoline,Automatic,3L I-6 gasoline direct injection DOHC Double VANOS variable va,72202
+2020 Volvo XC90 T6 Momentum,44450,All-wheel Drive,Gasoline,Automatic,Drive-E 2L I-4 gasoline direct injection DOHC variable valve c,16015
+2016 Volkswagen e-Golf SE,14381,Front-wheel Drive,Automatic,Electric Motor,NoInfo,
+2017 Jaguar F-PACE 35t R-Sport,27466,All-wheel Drive,Gasoline,Automatic,3L V-6 gasoline direct injection DOHC variable valve control,94566
+2022 RAM 1500 Big Horn,59017,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,
+2023 Dodge Charger Scat Pack,58306,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,
+2023 Dodge Charger SXT,34325,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,
+2023 Dodge Charger Scat Pack,59900,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,
+2023 Chevrolet Silverado 2500 High Country,83360,Four-wheel Drive,Diesel,10-Speed Automatic,6.6L V8 32V DDI OHV Turbo Diesel,2
+2022 Dodge Charger GT,32073,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,9
+2023 Toyota Tundra Platinum,66356,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1
+2023 Toyota Tundra Limited,60401,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,3
+2016 Audi A3 2.0T Premium,19995,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,51385
+2023 Volvo XC60 B5 Ultimate Bright Theme,54901,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,11
+2023 Volvo XC60 B5 Ultimate Dark Theme,54804,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3
+2023 Volvo XC90 B6 Ultimate 6-Seater,72869,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3
+2023 Volvo XC60 B5 Plus Dark Theme,50370,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,6
+2023 Volvo XC90 B6 Plus 6-Seater,61425,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,20
+2023 Volvo XC90 B6 Ultimate 6-Seater,69755,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3
+2023 Volvo XC60 B5 Ultimate Dark Theme,55251,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,11
+2023 Volvo XC90 Recharge Plug-In Hybrid T8 Plus Dark Theme 7 Passenger,74795,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,10
+2023 Volvo XC90 B5 Plus,57954,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,6
+2022 Jeep Wrangler Unlimited Rubicon,54678,Four-wheel Drive,Diesel,Automatic,Intercooled Turbo Diesel V-6 3.0 L182,12659
+2020 Honda CR-V Hybrid Touring,31743,All-wheel Drive,Hybrid,Variable,GasElectric I-4 2.0 L122,56701
+2015 Lincoln MKX Base,15795,All-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.7 L227,82918
+2021 Hyundai Kona SEL Plus,24595,All-wheel Drive,Gasoline,Automatic,Regular Unleaded I-4 2.0 L122,14847
+2021 Toyota Tacoma SR5,32695,Rear-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.5 L211,36114
+2021 Audi A6 Prestige,48995,All-wheel Drive,Hybrid,Automatic,Intercooled Turbo GasElectric V-6 3.0 L183,20664
+2011 Honda CR-Z EX,12164,Front-wheel Drive,Hybrid,Variable,GasElectric I4 1.5L91,30974
+2020 Honda Pilot Elite,38648,All-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.5 L212,28271
+2020 Honda Odyssey Touring,38894,Front-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.5 L212,8378
+2021 Honda Ridgeline RTL,34527,All-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.5 L212,13111
+2019 Honda Odyssey LX,29867,Front-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.5 L212,2417
+2015 Audi A6 2.0T Premium,17647,All-wheel Drive,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L121,85983
+2020 Honda Odyssey EX-L,34599,Front-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.5 L212,26511
+2018 MINI Hardtop Cooper S,21797,Front-wheel Drive,Gasoline,Manual,Intercooled Turbo Premium Unleaded I-4 2.0 L122,37084
+2022 Ford F-150 XLT,52735,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,22
+2019 Cadillac Escalade Luxury,46971,Four-wheel Drive,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,70150
+2020 Jeep Grand Cherokee Limited,32750,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,37161
+2019 Audi A3 2.0T Premium,27803,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,22724
+2023 Chevrolet Equinox 1LT,31250,Front-wheel Drive,Gasoline,6-Speed Electronically Controlled Automatic with O,1.5L I4 16V GDI DOHC Turbo,1
+2023 Chevrolet Equinox RS,34215,Front-wheel Drive,Gasoline,6-Speed Electronically Controlled Automatic with O,1.5L I4 16V GDI DOHC Turbo,4
+2023 Nissan ARIYA ENGAGE,44735,Front-wheel Drive,Automatic,Electric,NoInfo,
+2023 Nissan ARIYA EVOLVE,52570,Front-wheel Drive,Automatic CVT,Electric,NoInfo,
+2023 Toyota Tundra SR5,57864,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,3
+2021 Tesla Model Y Long Range,46050,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2024 Subaru Crosstrek Premium,30887,All-wheel Drive,Gasoline,Automatic CVT,NoInfo,0
+2017 GMC Yukon Denali,43371,Four-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 16V GDI OHV,63782
+2019 Mazda CX-5 Grand Touring,25994,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,53254
+2020 Land Rover Range Rover Sport 3.0L Supercharged HSE,47694,Four-wheel Drive,Gasoline,Automatic,NoInfo,57914
+2016 Audi A3 2.0T Premium,18694,All-wheel Drive,Gasoline,6-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,61364
+2020 Lexus RX 350 Base,44994,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,24118
+2020 Lexus RX 350 Base,38794,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,78168
+2023 Volkswagen Atlas Cross Sport 3.6L V6 SE wTechnology,45706,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,15
+2023 Dodge Durango SRT Hellcat,95725,All-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 Supercharged,0
+2018 Jeep Grand Cherokee Overland,28995,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,123349
+2013 Jeep Wrangler Sport,17077,Four-wheel Drive,Gasoline,5-Speed Automatic,3.6L V6 24V MPFI DOHC,82135
+2023 Toyota Tundra 1794,69581,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5
+2023 Dodge Challenger SRT Hellcat,92442,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 16V MPFI OHV Supercharged,7
+2023 Chevrolet Tahoe High Country,84500,Four-wheel Drive,Gasoline,10-Speed Automatic with Overdrive,6.2L V8 16V GDI OHV,10
+2023 Chevrolet Suburban RST,75570,Four-wheel Drive,Gasoline,10-Speed Automatic with Overdrive,5.3L V8 16V GDI OHV,2
+2016 Nissan Altima 2.5 SL,16470,Front-wheel Drive,Gasoline,Automatic CVT,2.5L I4 16V MPFI DOHC,69729
+2014 Chevrolet Cruze Diesel,13170,Front-wheel Drive,Diesel,6-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,70658
+2018 BMW 330 Gran Turismo i xDrive,23070,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,56565
+2014 Land Rover LR2 Base,14570,Four-wheel Drive,Gasoline,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,73773
+2015 Lexus RX 350 Base,26270,All-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI DOHC,46067
+2006 Mercedes-Benz CLK-Class CLK500,17588,Rear-wheel Drive,Gasoline,7-Speed Automatic,5.0L V8 24V MPFI SOHC,65978
+2015 Chevrolet Tahoe Police,19795,Rear-wheel Drive,E85 Flex Fuel,6-Speed Automatic,5.3L V8 16V GDI OHV Flexible Fuel,98860
+2019 Porsche Macan Base,39000,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,47248
+2023 Cadillac CT4-V V-Series Blackwing,76005,Rear-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC Twin Turbo,11
+2023 Cadillac XT4 Premium Luxury,49015,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,43
+2023 Cadillac XT5 Luxury,46215,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1
+2019 Honda CR-V LX,23733,All-wheel Drive,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,32067
+2019 Honda Ridgeline Black Edition,34499,All-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,50144
+2023 Nissan Titan PRO-4X,58809,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,6
+2020 BMW 330 i xDrive,34899,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,28870
+2022 Jeep Grand Cherokee 4xe Base,49522,Four-wheel Drive,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,7
+2023 Jeep Grand Cherokee Limited,48035,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2000
+2022 Jeep Grand Cherokee 4xe Base,50872,Four-wheel Drive,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,2989
+2023 Chrysler Pacifica Limited,49245,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V MPFI DOHC,5
+2023 Dodge Charger Scat Pack,77795,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,6
+2022 Jeep Cherokee Trailhawk,31745,Four-wheel Drive,Gasoline,9-Speed Automatic,3.2L V6 24V MPFI DOHC,3
+2020 GMC Acadia Denali,41998,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,15158
+2019 Ford Fusion SE,18599,Front-wheel Drive,Gasoline,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo,55554
+2022 Volkswagen ID.4 Pro S,46193,Rear-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2021 Audi Q8 55 Premium,55599,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo,28960
+2023 Subaru Outback Limited,36613,All-wheel Drive,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,6
+2021 Acura RDX Technology Package,38500,All-wheel Drive,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,20955
+2023 Acura MDX Technology,53079,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,2122
+2022 Acura RDX A-Spec,46176,All-wheel Drive,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,6639
+2023 Toyota Tundra Platinum,68912,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5
+2023 Maserati Levante GT,92595,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,20
+2023 Toyota Corolla Cross L,26303,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC,0
+2023 Toyota Tundra Limited,59452,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,0
+2023 Toyota Tundra SR,41082,NoInfo,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,0
+2023 Toyota Tundra SR5,52433,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,0
+2011 Porsche 911 Turbo,104999,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,3.8L H6 24V GDI DOHC Twin Turbo,26393
+2020 Land Rover Discovery Landmark Edition,48437,Four-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,18310
+2022 Land Rover Discovery Sport SE,39301,Four-wheel Drive,Gasoline,Automatic,NoInfo,13907
+2019 Land Rover Range Rover Sport 3.0L Supercharged HSE,56807,Four-wheel Drive,Gasoline,Automatic,NoInfo,24186
+2023 Ford Transit Connect XLT,42215,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC,5
+2022 Chevrolet Tahoe Z71,66180,Four-wheel Drive,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,27897
+2023 Honda Accord LX,28845,Front-wheel Drive,Gasoline,Automatic CVT,NoInfo,8
+2017 Toyota Tacoma TRD Off Road,34429,Four-wheel Drive,Gasoline,Automatic,3.5L V-6 portdirect injection DOHC VVT-iE variable valve cont,58090
+2023 Hyundai Kona N Line,30953,All-wheel Drive,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,11
+2022 Lincoln Corsair Reserve,51405,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,17
+2023 Genesis G90 3.5T,87155,All-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,19
+2023 Genesis G70 3.3T,56235,All-wheel Drive,Gasoline,Automatic,3.3L V6 24V GDI DOHC Twin Turbo,9
+2023 Toyota bZ4X Limited,51670,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Toyota Tundra Limited,59903,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,0
+2022 Toyota Camry XSE,37888,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,2228
+2017 Audi Q3 2.0T Prestige,19988,All-wheel Drive,Gasoline,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,78170
+2021 Lexus RX 350 Base,46388,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,22221
+2023 Toyota Tundra SR5,54604,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,0
+2023 Toyota Tundra Platinum,68912,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,3
+2023 Toyota bZ4X Limited,52483,All-wheel Drive,Automatic,Electric,NoInfo,
+2021 GMC Yukon SLT,52880,Four-wheel Drive,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,77096
+2017 BMW 750 i xDrive,37994,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,52750
+2014 GMC Sierra 2500 SLT,34899,Four-wheel Drive,E85 Flex Fuel,6-Speed Automatic,6.0L V8 16V MPFI OHV Flexible Fuel,62705
+2022 GMC Sierra 1500 Elevation,49498,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,224
+2021 Ford Bronco Sport Outer Banks,31929,Four-wheel Drive,Gasoline,8-Speed Automatic,1.5L I3 12V PDI DOHC Turbo,13339
+2020 GMC Acadia Denali,35698,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,44533
+2020 Kia Sorento LX,23915,All-wheel Drive,Gasoline,6-Speed Automatic,2.4L I4 16V GDI DOHC,56808
+2019 Chevrolet Blazer 2LT,27889,Front-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,21843
+2021 Chevrolet Tahoe LT,49493,Four-wheel Drive,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,87565
+2020 Jeep Grand Cherokee Summit,39523,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,56479
+2020 Chevrolet Equinox LS,20919,Front-wheel Drive,Gasoline,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo,29179
+2022 Ford F-150 Lariat,66815,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,7
+2022 Ford F-150 WALDOCH RAMPAGE,74946,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,
+2022 BMW 750 i xDrive,123645,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,2848
+2023 Lexus LS 500 F Sport,91280,All-wheel Drive,Gasoline,10-Speed Automatic,3.4L V6 24V PDI DOHC Twin Turbo,
+2022 Ford Mustang EcoBoost Premium,47995,Rear-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,0
+2022 Chevrolet Silverado 1500 Limited RST,59477,Four-wheel Drive,Gasoline,8-Speed Automatic,5.3L V8 16V GDI OHV,8
+2023 Acura MDX A-Spec,52995,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,2077
+2022 Mazda MX-30 Premium Plus,26997,Front-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Kia Stinger GT-Line,35297,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,7405
+2023 Acura MDX Base,46495,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,6641
+2023 Acura MDX Advance,55990,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,1787
+2019 Ford F-150 XLT,33895,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,44611
+2005 Honda CR-V EX,8990,Four-wheel Drive,Gasoline,Automatic,2.4L I-4 DOHC i-VTEC variable valve control engine with 160HP,97205
+2023 Toyota Tacoma Limited,48998,Four-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V PDI DOHC,3
+2021 Toyota Sienna LE,38043,Front-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,40387
+2019 Toyota Tacoma TRD Off Road,35678,Four-wheel Drive,Gasoline,6-Speed Manual,3.5L V6 24V PDI DOHC,72805
+2023 Toyota Tundra Limited,60121,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,21
+2023 Toyota Tundra SR5,51999,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,30
+2017 Toyota Corolla XLE,15962,Front-wheel Drive,Gasoline,Automatic CVT,1.8L I4 16V MPFI DOHC,109730
+2023 Toyota Corolla Hybrid LE,29293,Front-wheel Drive,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,2
+2023 Toyota Tundra SR5,51999,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,3
+2023 Toyota Crown Limited,42811,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,4
+2023 Toyota Tundra SR5,52999,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,3
+2023 Lexus RX 350h Premium Plus,62125,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,4
+2023 Lexus RX 350h Premium,55235,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,4
+2023 Lexus RX 350h Premium Plus,61835,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,4
+2023 Lexus RX 350h Luxury,67125,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,4
+2023 BMW i4 Gran Coupe eDrive40,62370,Rear-wheel Drive,Automatic,Electric,NoInfo,
+2024 BMW X7 xDrive40i,89345,All-wheel Drive,Gasoline,Automatic,NoInfo,10
+2023 BMW X6 xDrive40i,82120,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,1073
+2024 BMW X5 M60I,105745,All-wheel Drive,Gasoline,Automatic,NoInfo,7
+2023 BMW M550 i xDrive,89845,All-wheel Drive,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,10
+2023 BMW X3 xDrive30i,56825,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 BMW M550 i xDrive,85330,All-wheel Drive,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,10
+2023 INFINITI QX80 PREMIUM SELECT,77485,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,5
+2023 INFINITI Q50 LUXE,45958,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5
+2020 Honda Accord EX-L 1.5T,27885,Front-wheel Drive,Gasoline,CVT,1.5L I-4 gasoline direct injection DOHC i-VTEC variable valve,25220
+2023 Audi SQ5 3.0T Premium Plus,68230,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,16
+2023 Audi A5 45 S line Premium Plus,55665,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,25
+2023 Audi Q3 45 S line Premium Plus,49585,All-wheel Drive,Gasoline,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 Audi Q4 e-tron 50 Premium Plus,63275,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Audi A6 55 Premium Plus,66540,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,9
+2023 Audi SQ5 3.0T Premium,61025,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,8
+2023 Audi Q8 55 Premium Plus,83905,All-wheel Drive,Gasoline,Automatic with Tiptronic,3.0L V6 24V GDI DOHC Turbo,25
+2023 Audi A4 45 S line Premium Plus,50660,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,4
+2022 Mercedes-Benz A-Class A 220 4MATIC,45790,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,3335
+2023 Mercedes-Benz CLA 250 Base 4MATIC,49250,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,4659
+2023 Mercedes-Benz CLA 250 Base 4MATIC,47460,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1899
+2023 Mercedes-Benz AMG EQS Base,160305,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Mercedes-Benz E-Class E 450 4MATIC,84655,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,7
+2022 Mercedes-Benz AMG SL 63 Base,199985,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,19
+2019 Tesla Model S Performance,57995,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 GMC Savana 2500 Work Van,43028,Rear-wheel Drive,Gasoline,Automatic,4.3L V6 12V GDI OHV,37
+2023 Mercedes-Benz AMG CLA 45 Base 4MATIC,70555,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V PDI DOHC Turbo,8
+2023 Mercedes-Benz AMG GLE 53 Base,96195,All-wheel Drive,Gasoline,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,6
+2022 Lincoln Navigator Standard,84660,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,7
+2022 BMW X7 xDrive40i,77800,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,10795
+2018 Porsche 718 Cayman Base,52800,Rear-wheel Drive,Gasoline,6-Speed Manual,2.0L H4 16V GDI DOHC Turbo,21245
+2008 Honda Civic LX,5999,Front-wheel Drive,Gasoline,Automatic 5-Speed,4 Cylinder Engine,129600
+2015 BMW 750 i xDrive,20895,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,99288
+2016 Mercedes-Benz E-Class E 550,22995,Rear-wheel Drive,Gasoline,7-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo,92829
+2010 Mercedes-Benz C-Class C 350,11485,Rear-wheel Drive,Gasoline,7-Speed Automatic,3.5L V6 24V MPFI DOHC,66181
+2016 Mercedes-Benz E-Class E 350,27895,Rear-wheel Drive,Gasoline,7-Speed Automatic,3.5L V6 24V GDI DOHC,6638
+2019 Mercedes-Benz S-Class S 560,97000,Rear-wheel Drive,Gasoline,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,10112
+2023 Aston Martin DBX 707,272486,All-wheel Drive,Gasoline,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,20
+2017 Mercedes-Benz AMG S 63 Base 4MATIC,79000,All-wheel Drive,Gasoline,7-Speed Automatic,5.5L V8 32V GDI DOHC Twin Turbo,54936
+2016 Jaguar XF S,25500,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,40569
+2022 Dodge Challenger RT Scat Pack,62400,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,1109
+1988 Chevrolet 2500 Silverado,21950,Rear-wheel Drive,Gasoline,Automatic,5.7L V8 16V OHV,63053
+2023 Toyota Tundra SR5,53293,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,8
+2023 Toyota Tundra Limited,60906,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,8
+2023 Nissan Pathfinder SL,44886,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,2
+2023 Cadillac XT4 Luxury,40523,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,598
+2023 Cadillac CT5-V V-Series,65240,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,3
+2023 Cadillac XT4 Sport,45920,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2
+2019 BMW 430 i,39995,Rear-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,12565
+2020 Jeep Grand Cherokee Altitude,34995,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,41225
+2020 Audi A5 2.0T Premium,37995,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,21012
+2022 Chevrolet Camaro 1LT,36995,Rear-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,4609
+2023 Chevrolet Traverse LS,33665,Front-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,5
+2023 Chevrolet Traverse Premier,48740,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,5
+2022 Genesis G70 2.0T,40990,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,8658
+2021 Jeep Wrangler Unlimited Sahara,34500,Four-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,46226
+2022 Hyundai Santa Fe XRT,31990,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,7710
+2023 Hyundai IONIQ 6 SEL,52525,All-wheel Drive,,1-Speed Automatic,NoInfo,
+2023 Genesis G90 3.5T,90260,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,
+2023 Audi Q5 45 S line Premium Plus,51097,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,11
+2023 Dodge Hornet GT Plus,37805,All-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 DOHC,11
+2023 Land Rover Defender 90 X-Dynamic SE,93475,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,4
+2023 Jaguar F-TYPE P450 R-Dynamic,99580,All-wheel Drive,Gasoline,Automatic,NoInfo,4
+2016 Subaru Outback 2.5i Limited,35115,All-wheel Drive,Gasoline,Automatic CVT,2.5L H4 16V MPFI DOHC,65000
+2023 Land Rover Defender 90 X,98180,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,4
+2020 BMW X3 PHEV xDrive30e,43500,All-wheel Drive,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,10604
+2014 Chevrolet Camaro 2SS,28500,Rear-wheel Drive,Gasoline,6-Speed Automatic,6.2L V8 16V MPFI OHV,46261
+2022 Chevrolet Tahoe RST,70999,Four-wheel Drive,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,15296
+2021 Chevrolet Corvette Stingray w2LT,81500,Rear-wheel Drive,Gasoline,8-Speed Automatic with Auto-Shift,6.2L V8 16V GDI OHV,11952
+2022 Jeep Grand Cherokee L Limited,44991,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,25107
+2022 Chevrolet Camaro LT1,43500,Rear-wheel Drive,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,211
+2016 Chevrolet Silverado 1500 LTZ,29995,Four-wheel Drive,Gasoline,6-Speed Electronically Controlled Automatic with O,5.3L V8 16V GDI OHV,89080
+2019 Hyundai Santa Fe XL SE,24687,All-wheel Drive,Gasoline,6-Speed Automatic,3.3L V6 24V GDI DOHC,40227
+2022 RAM 1500 Limited,66294,Four-wheel Drive,Diesel,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,4
+2023 Chevrolet Colorado LT,39880,Four-wheel Drive,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,2
+2023 Chevrolet Tahoe LS,63930,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V GDI OHV,2
+2015 Ford F-350 XLT,28589,Four-wheel Drive,Diesel,6-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel,160538
+2022 Chevrolet Silverado 1500 Limited RST,62499,Four-wheel Drive,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,12
+2023 Volvo XC40 Recharge Pure Electric Twin Core,55340,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Volvo XC90 B6 Ultimate 6-Seater,66000,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3661
+2022 Volkswagen Atlas 3.6L SE wTechnology,40315,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,7298
+2019 Honda Odyssey EX-L,33000,Front-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,50147
+2020 Honda Pilot EX-L,31300,All-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,43545
+2020 Honda CR-V Hybrid Touring,32500,All-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,42605
+2021 Nissan Altima 2.5 SV,19250,All-wheel Drive,Gasoline,Automatic CVT,2.5L I4 16V GDI DOHC,76535
+2022 BMW 750 i xDrive,109991,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,2036
+2022 BMW 750 i xDrive,98500,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,8841
+2022 BMW 840 i,68983,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,20824
+2021 BMW X6 xDrive40i,56983,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,43699
+2022 Porsche Taycan Base,99995,Rear-wheel Drive,Automatic,Electric,NoInfo,
+2023 Audi e-tron GT Premium Plus,106990,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Audi e-tron GT Premium Plus,111215,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Audi e-tron GT Prestige,117615,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Audi e-tron GT Premium Plus,107215,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2020 GMC Sierra 1500 Elevation,36861,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,69300
+2023 Audi e-tron GT Premium Plus,120415,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Audi e-tron GT Premium Plus,120415,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Audi e-tron GT Premium Plus,120415,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2022 Audi e-tron S Prestige,85880,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2020 Nissan Leaf SV,23793,Front-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Kia Sportage X-Line,35090,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,10
+2016 Acura ILX 2.4L,22006,Front-wheel Drive,Gasoline,8-Speed,2.4L I4 16V GDI DOHC,27012
+2020 BMW 540 i xDrive,33720,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,82991
+2021 Ford F-250 XLT,52450,Four-wheel Drive,Diesel,10-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel,25003
+2016 Tesla Model S P90D,37000,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2021 Ford F-150 XLT,42450,Four-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,34670
+2019 Lincoln Navigator L Reserve,39987,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,104437
+2016 Tesla Model X P90D,45000,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2022 Ford F-150 XLT,38950,Rear-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,10
+2022 Ford Bronco Raptor,98986,Four-wheel Drive,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1826
+2018 BMW i3 94Ah s wRange Extender,22450,Rear-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2022 Subaru Legacy Limited XT,30400,All-wheel Drive,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,10263
+2021 Tesla Model Y Standard Range,40000,Rear-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Hyundai IONIQ 6 SEL,52770,All-wheel Drive,,1-Speed Automatic,NoInfo,5
+2023 Genesis G70 2.0T,47390,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,5198
+2023 Hyundai IONIQ 6 SE,50775,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2015 Lamborghini Aventador LP700-4,345000,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,6.5L V12 48V MPFI DOHC,10883
+2020 Lexus LX 570 Three-Row,78777,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 32V MPFI DOHC,27830
+2022 Tesla Model X Plaid,115977,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2015 Lexus RC 350 Base,28977,All-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V PDI DOHC,46629
+2016 Lexus RX 350 F Sport,30995,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V GDI DOHC,70118
+2019 Lexus GX 460 Luxury,52495,Four-wheel Drive,Gasoline,6-Speed Automatic,4.6L V8 32V MPFI DOHC,39911
+2020 Lexus ES 350 Base,31777,Front-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,80971
+2017 Lexus IS 300 Base,23995,All-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V GDI DOHC,85681
+2023 Lexus LC 500 Base,115110,Rear-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,
+2023 Lexus LS 500 F Sport,88390,All-wheel Drive,Gasoline,10-Speed Automatic,3.4L V6 24V PDI DOHC Twin Turbo,
+2022 Lexus ES 350 F Sport,48995,Front-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,3652
+2019 Dodge Charger GT,25955,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,78768
+2020 Chevrolet Impala LT,21361,Front-wheel Drive,Gasoline,6-Speed Automatic,3.6L V6 24V GDI DOHC,72989
+2017 GMC Yukon SLT,32416,Four-wheel Drive,Gasoline,6-Speed Automatic,5.3L V8 16V GDI OHV,94840
+2021 Dodge Challenger RT,33365,Rear-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,37135
+2017 Ford Explorer Limited,26650,Four-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI DOHC,46929
+2021 Hyundai Kona SE,19796,All-wheel Drive,Gasoline,6-Speed Automatic,2.0L I4 16V MPFI DOHC,58995
+2020 GMC Sierra 1500 Elevation,39774,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V GDI OHV,76989
+2020 GMC Yukon Denali,58395,Four-wheel Drive,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,36769
+2022 Chevrolet Silverado 1500 Limited RST,81710,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,21
+2005 Ford Mustang GT Premium,13949,Rear-wheel Drive,Gasoline,5-Speed,4.6L V8 24V MPFI SOHC,61050
+2016 Chevrolet Silverado 2500 LT,30481,Four-wheel Drive,Gasoline,6-Speed Automatic,NoInfo,111442
+2022 Chevrolet Silverado 1500 RST,89430,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,5
+2014 GMC Sierra 1500 SLE,22476,Four-wheel Drive,Gasoline,6-Speed Automatic,5.3L V8 16V GDI OHV,80565
+2014 Audi TT 2.0T Premium Plus quattro,24995,All-wheel Drive,Gasoline,6-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,46994
+2014 Chevrolet Spark 1LT,9493,Front-wheel Drive,Gasoline,Automatic CVT,1.2L I4 16V MPFI DOHC,53481
+2021 Land Rover Range Rover 5.0 Supercharged Autobiography,113993,Four-wheel Drive,Gasoline,Automatic,NoInfo,8579
+2014 Toyota Camry L,16993,Front-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V MPFI DOHC,23267
+2021 Land Rover Range Rover 5.0 Supercharged Autobiography,113993,Four-wheel Drive,Gasoline,Automatic,NoInfo,8579
+2015 Toyota Venza LE,16993,All-wheel Drive,Gasoline,6-Speed Automatic,2.7L I4 16V MPFI DOHC,76879
+2017 Hyundai Elantra SE,13493,Front-wheel Drive,Gasoline,6-Speed Automatic,2.0L I4 16V GDI DOHC,58916
+2007 Honda CR-V EX,10493,Four-wheel Drive,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,91222
+2023 Honda CR-V EX,34310,All-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,
+2023 Honda Pilot EX-L 8-Passenger,45395,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5
+2023 Ford Mustang Mach 1,62000,Rear-wheel Drive,Gasoline,TREMEC 6-Speed Manual,5.0L V8 32V PDI DOHC,10
+2020 Lexus RX 350 Base,40797,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,27680
+2023 Dodge Durango SXT,38719,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,10
+2023 Dodge Durango SRT Hellcat,104573,All-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 Supercharged,10
+2023 Jeep Grand Cherokee L Laredo,44995,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1089
+2020 Jeep Grand Cherokee Limited,31997,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,57144
+2020 Jeep Grand Cherokee Limited,36295,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,24891
+2023 Acura Integra A-Spec,32995,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1904
+2019 Toyota Corolla L,16187,Front-wheel Drive,Gasoline,Automatic CVT,1.8L I4 16V MPFI DOHC,77545
+2020 Acura RDX A-Spec,33487,All-wheel Drive,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,48714
+2023 Lexus LS 500 Base,,All-wheel Drive,Gasoline,10-Speed Automatic with Overdrive,3.4L V6 24V PDI DOHC Twin Turbo,0
+2023 Lexus RX 350h Premium Plus,,All-wheel Drive,Hybrid,1-Speed CVT with Overdrive,2.5L I4 16V PDI DOHC Hybrid,0
+2023 Lexus RX 350h Luxury,,All-wheel Drive,Hybrid,1-Speed CVT with Overdrive,2.5L I4 16V PDI DOHC Hybrid,4
+2023 Lexus RX 350h Premium Plus,,All-wheel Drive,Hybrid,1-Speed CVT with Overdrive,2.5L I4 16V PDI DOHC Hybrid,0
+2014 Lexus LS 460 Base,20995,Rear-wheel Drive,Gasoline,8-Speed Automatic,4.6L V8 32V PDI DOHC,112201
+2023 Toyota Tundra Platinum,67267,Four-wheel Drive,Gasoline,OTHER,3.5L V6 24V PDI DOHC Twin Turbo,
+2023 Jaguar F-TYPE P450 R-Dynamic,90430,All-wheel Drive,Gasoline,Automatic,NoInfo,20
+2023 Mercedes-Benz AMG G 63 4MATIC,,NoInfo,Gasoline,9-Speed Automatic,NoInfo,12
+2015 Mercedes-Benz GLK-Class GLK 350 4MATIC,18777,All-wheel Drive,Gasoline,7-Speed Automatic,3.5L V6 24V GDI DOHC,80966
+2019 Ford F-150 XLT,30898,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,66263
+2023 INFINITI QX60 AUTOGRAPH,68030,All-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1
+2023 INFINITI Q50 LUXE,44400,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5
+2023 Toyota Camry XSE,35603,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,3
+2023 Toyota Tundra 1794,68718,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,3
+2023 Toyota Tundra SR5,53293,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5
+2021 Toyota Tacoma TRD Off Road,37000,Four-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.5 L211,40277
+2023 Toyota Tundra Limited,62000,Four-wheel Drive,Gasoline,Automatic,Twin Turbo Regular Unleaded V-6 3.4 L210,10
+2015 Chevrolet Sonic LT,9900,Front-wheel Drive,Gasoline,6-Speed Automatic,1.8L I4 16V MPFI DOHC,69298
+2007 Ford Mustang Deluxe,9900,Rear-wheel Drive,Gasoline,5-Speed Automatic,4.0L V6 12V MPFI SOHC,94021
+2008 Jeep Grand Cherokee Overland,16900,Four-wheel Drive,Gasoline,5-Speed Automatic,5.7L V8 16V MPFI OHV,84113
+2004 Ford Mustang Deluxe,10900,Rear-wheel Drive,Gasoline,5-Speed Manual,3.8L V6 12V MPFI OHV,58944
+2006 Buick LaCrosse CXL,12900,Front-wheel Drive,Gasoline,4-Speed Automatic,3.8L V6 12V MPFI OHV,32670
+2014 Ford Mustang V6 Premium,20900,Rear-wheel Drive,Gasoline,6-Speed Automatic,3.7L V6 24V MPFI DOHC,60592
+2023 Acura Integra A-Spec,35095,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,13
+2023 Acura MDX Advance,65195,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,10
+2017 Chrysler 200 LX,14877,Front-wheel Drive,Gasoline,9-Speed Automatic,2.4L I4 16V MPFI SOHC,50841
+2017 Ford F-250 Lariat,38977,Four-wheel Drive,Diesel,6-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel,159359
+2021 Lincoln Navigator Reserve,67877,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,34413
+2018 Ford Explorer XLT,22477,Four-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI DOHC,85826
+2021 Ford Expedition Max Limited,41077,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,81749
+2021 Hyundai Kona Ultimate,23577,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,1.6L I4 16V GDI DOHC Turbo,29512
+2021 Kia Telluride EX,36777,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,45016
+2023 Chevrolet Corvette Stingray w3LT,101900,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 16V GDI OHV,455
+2017 Ford Shelby GT350 Base,55900,Rear-wheel Drive,Gasoline,6-Speed Manual,5.2L V8 32V MPFI DOHC,29663
+2019 Toyota 4Runner SR5,37490,Four-wheel Drive,Gasoline,5-Speed Automatic,4.0L V6 24V MPFI DOHC,67137
+2021 Honda Passport Touring,35990,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,29017
+2018 Toyota RAV4 LE,16990,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V MPFI DOHC,160329
+2018 Volvo V60 T5 Dynamic,18490,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,90719
+2021 Toyota Venza LE,35490,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,16992
+2022 Toyota Camry Hybrid XLE,37990,Front-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,1971
+2020 Toyota RAV4 Hybrid LE,31990,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,33667
+2019 Toyota 4Runner Limited,41490,Four-wheel Drive,Gasoline,5-Speed Automatic,4.0L V6 24V MPFI DOHC,68365
+2018 Toyota Tacoma TRD Sport,35490,Four-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V PDI DOHC,56672
+2020 Toyota Tundra Limited,46490,Four-wheel Drive,Gasoline,6-Speed Automatic,5.7L V8 32V MPFI DOHC,40946
+2020 Toyota Tundra Limited,46490,Four-wheel Drive,Gasoline,6-Speed Automatic,5.7L V8 32V MPFI DOHC,40946
+2017 Toyota Prius v Two,25990,Front-wheel Drive,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,20802
+2018 Toyota RAV4 XLE,26990,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V MPFI DOHC,52103
+2020 Toyota Highlander Limited,42490,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,23094
+2020 Toyota 4Runner SR5 Premium,39990,Four-wheel Drive,Gasoline,5-Speed Automatic,4.0L V6 24V MPFI DOHC,49905
+2018 RAM 1500 Big Horn,29990,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,73908
+2019 Toyota Tundra SR5,40990,Four-wheel Drive,Gasoline,6-Speed Automatic,5.7L V8 32V MPFI DOHC,27033
+2020 Toyota Highlander XLE,37990,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,37164
+2022 Toyota Tundra Limited,54490,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,9115
+2022 Toyota Camry Hybrid SE,35490,Front-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,7307
+2018 Jeep Wrangler Unlimited Sport,30990,Four-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,53042
+2019 Lexus IS 300 Base,33990,All-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V PDI DOHC,35809
+2020 RAM 1500 Big Horn,36990,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,45746
+2023 Nissan Pathfinder Platinum,52100,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1
+2023 Nissan Maxima Platinum,43791,Front-wheel Drive,Gasoline,Automatic CVT,3.5L V6 24V GDI DOHC,2
+2023 Nissan Pathfinder Platinum,50102,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1
+2023 Volvo C40 Recharge Pure Electric Twin Ultimate,54740,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Volvo S90 Recharge Plug-In Hybrid T8 Ultimate,78390,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,19
+2019 Mercedes-Benz AMG GLE 43 Base 4MATIC,51995,All-wheel Drive,Gasoline,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,41060
+2023 Volvo C40 Recharge Pure Electric Twin Ultimate,54740,All-wheel Drive,Automatic,Electric,NoInfo,
+2021 BMW X1 sDrive28i,29680,Front-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,39748
+2023 Ford Transit-250 Base,81535,All-wheel Drive,E85 Flex Fuel,10-Speed Automatic with Overdrive,3.5L V6 24V PDI DOHC Flexible Fuel,2
+2023 Ford Bronco Badlands,77525,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,621
+2023 Ford Bronco Wildtrak,81495,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,2
+2023 Ford Bronco Base,73785,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,44
+2023 Ford Transit-350 Base,74890,Rear-wheel Drive,E85 Flex Fuel,Automatic,3.5L V6 24V PDI DOHC Flexible Fuel,6
+2023 Ford Transit-350 Base,82018,All-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC Twin Turbo,6
+2022 INFINITI Q60 LUXE,45950,All-wheel Drive,Gasoline,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,486
+2023 Audi e-tron GT Premium Plus,119865,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2020 Jaguar F-PACE Prestige P300 AWD Automatic,39390,All-wheel Drive,Gasoline,Automatic,Ingenium 2L I-4 gasoline direct injection DOHC variable valve,38471
+2023 Jaguar F-PACE S P250 AWD Automatic,55840,All-wheel Drive,Gasoline,Automatic,2L I-4 gasoline direct injection DOHC variable valve control,1250
+2023 Land Rover Range Rover P400 SE,120960,All-wheel Drive,Gasoline,Automatic,Ingenium 3L I-6 gasoline direct injection DOHC CVVL variable v,7
+2023 Land Rover Defender 110 S,73500,Four-wheel Drive,Gasoline,Automatic,Ingenium 2L I-4 gasoline direct injection DOHC variable valve,2002
+2023 Mercedes-Benz EQB 300 4MATIC,57920,All-wheel Drive,Automatic,Dual Electric Motor,NoInfo,
+2023 Jaguar F-PACE SVR P550 AWD Automatic,99580,All-wheel Drive,Gasoline,Automatic,5L V-8 gasoline direct injection DOHC variable valve control,8
+2017 Mercedes-Benz E-Class 4MATIC,34220,All-wheel Drive,Gasoline,Automatic,2L I-4 gasoline direct injection DOHC variable valve control,27443
+2014 Mercedes-Benz SLK-Class SLK 250,26920,Rear-wheel Drive,Gasoline,Automatic,1.8L I-4 gasoline direct injection DOHC variable valve control,54789
+2023 Land Rover Defender 90 X-Dynamic SE,79990,Four-wheel Drive,Gasoline,Automatic,Ingenium 3L I-6 gasoline direct injection DOHC CVVL variable v,3900
+2023 Mercedes-Benz AMG EQS Base,161455,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Mercedes-Benz GLE 350 Base 4MATIC,67985,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,8348
+2023 Ford Mustang Mach-E Select,50500,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Mercedes-Benz E-Class E 350 4MATIC,66920,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3915
+2023 Mercedes-Benz S-Class S 500 4MATIC,135245,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,9
+2022 Ford Explorer XLT,42374,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,4102
+2023 Ford Mustang GT Premium,48495,Rear-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,5
+2023 Land Rover Defender X-Dynamic SE,90845,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,60
+2023 Land Rover Defender 110 S,67310,Four-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,16
+2023 Mercedes-Benz S-Class S 580 4MATIC,137360,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,11
+2020 Mercedes-Benz GLS 450 Base 4MATIC,64897,All-wheel Drive,Gasoline,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,38680
+2023 Land Rover Discovery P300 S R-Dynamic,66580,Four-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,13
+2023 Mercedes-Benz AMG G 63 4MATIC,208860,NoInfo,,Automatic,8 4,21
+2023 Land Rover Defender X-Dynamic SE,92165,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,12
+2011 BMW 328 i xDrive,11995,All-wheel Drive,Gasoline,6-Speed Automatic,3.0L I6 24V MPFI DOHC,93978
+2013 GMC Sierra 1500 SLE,19500,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V MPFI OHV,96064
+2016 Audi A8 L 3.0T,29990,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,36961
+2014 Jaguar F-TYPE Base,30990,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,41068
+2016 Ford Mustang GT Premium,35990,Rear-wheel Drive,Gasoline,6-Speed Automatic,5.0L V8 32V MPFI DOHC,29246
+2012 Audi A5 2.0T Premium Plus quattro,14990,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,94230
+2016 Ford Mustang GT Premium,34590,Rear-wheel Drive,Gasoline,,5.0L V8 32V MPFI DOHC,32963
+2014 BMW 650 i xDrive,32500,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,31340
+2023 Hyundai Sonata SEL,28334,Front-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC,3
+2023 Nissan Pathfinder SL,44968,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,3
+2023 Buick Enclave Avenir,55973,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,2951
+2023 Chevrolet Equinox RS,36450,All-wheel Drive,Gasoline,6-Speed Electronically Controlled Automatic with O,1.5L I4 16V GDI DOHC Turbo,4
+2023 Jeep Grand Cherokee Limited,47615,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,
+2022 Volkswagen ID.4 Pro S,46193,Rear-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2022 Subaru WRX Limited,41070,All-wheel Drive,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,28
+2022 BMW 750 i xDrive,112905,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,8397
+2022 Mercedes-Benz GLB 250 Base 4MATIC,49640,All-wheel Drive,Gasoline,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,5081
+2023 Mercedes-Benz AMG C 43 Base 4MATIC,81230,All-wheel Drive,Gasoline,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,6
+2023 Genesis G70 2.0T,43941,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,5521
+2023 Dodge Charger SXT,31337,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,22
+2023 Audi SQ5 3.0T Premium Plus,68555,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,4113
+2023 Acura TLX Type S,57745,All-wheel Drive,Gasoline,Automatic,3L V-6 gasoline direct injection DOHC i-VTEC variable valve co,10
+2016 Mercedes-Benz AMG GLE AMG GLE 63 S-Model 4MATIC,42957,All-wheel Drive,Gasoline,7-Speed Automatic,5.5L V8 32V GDI DOHC Twin Turbo,58985
+2023 Lexus RZ 450e,,NoInfo,,1-Speed Automatic,0.0 0.0,0
+2023 Jeep Gladiator Rubicon,55569,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,11
+2023 Mercedes-Benz GLC 300 4MATIC,61660,All-wheel Drive,Gasoline,Automatic,2.0L 4 Cylinder,11
+2023 Mercedes-Benz AMG GLE 53 Base,89400,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,7
+2022 Ford F-250 Lariat,92340,Four-wheel Drive,Diesel,Automatic,6.7L V8 32V DDI OHV Turbo Diesel,6
+2020 Volkswagen Atlas 3.6L SE wTechnology,26491,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,60761
+2023 Volvo S60 B5 Ultimate Dark Theme,50759,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,5
+2024 Subaru Crosstrek Base,26586,All-wheel Drive,Gasoline,Automatic CVT,NoInfo,0
+2023 Jeep Wrangler Rubicon 392,101630,Four-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,7
+2022 RAM 1500 Laramie,50631,Rear-wheel Drive,Diesel,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,4
+2023 Honda Civic Touring,31600,Front-wheel Drive,Gasoline Fuel,Variable,Intercooled Turbo Premium Unleaded I-4 1.5 L91,0
+2023 Cadillac CT4 Luxury,40590,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L Turbo,78
+2023 Kia Sorento LX,33741,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,15
+2022 Hyundai Santa Fe SEL,32990,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,3181
+2023 Jeep Grand Cherokee Laredo,38151,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,9
+2023 Genesis G90 3.5T E-SUPERCHARGER,,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,10
+2023 Genesis G90 3.5T e-SC,100560,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,23
+2022 RAM 2500 Tradesman,54720,Four-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,12
+2023 Dodge Charger Scat Pack,66400,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,54
+2022 Mercedes-Benz Sprinter 2500 9,144999,Rear-wheel Drive,Diesel,7-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,101
+2023 Mercedes-Benz Sprinter 4500 High Roof,87873,Rear-wheel Drive,Diesel,9-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,8
+2023 Toyota Corolla Cross XLE,31888,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC,3
+2018 Dodge Challenger SRT Hellcat,53677,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 16V MPFI OHV Supercharged,42807
+2022 Volkswagen ID.4 Pro S,43494,Rear-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 GMC Yukon Denali,85405,Four-wheel Drive,Gasoline,Automatic,EcoTec3 6.2L V-8 gasoline direct injection variable valve contr,3
+2023 Honda Accord EX,29205,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V DOHC,28
+2023 Genesis G70 2.0T,46255,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 Volvo XC90 Recharge Plug-In Hybrid T8 Plus 6 Passenger,75295,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,15
+2020 Hyundai Kona Limited,22782,All-wheel Drive,Gasoline,Automatic,Intercooled Turbo Regular Unleaded I-4 1.6 L97,31632
+2023 Jeep Wrangler Sport,38621,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,5
+2022 Cadillac CT4 Sport,47999,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1
+2023 Mazda CX-50 2.5 Turbo Premium Package,41823,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,2100
+2023 Honda Ridgeline RTL,43075,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,2
+2023 INFINITI QX60 Luxe,59480,All-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5
+2023 Mercedes-Benz AMG GLE 53 Base,87010,All-wheel Drive,Gasoline,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,8
+2023 Cadillac XT6 Sport AWD,64550,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,0
+2023 Cadillac CT5-V V-Series Blackwing,123075,NoInfo,Gasoline,,6.2L V8 16V GDI OHV Supercharged,0
+2023 Cadillac XT6 Sport AWD,62725,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,0
+2023 Kia K5 GT-Line,29985,NoInfo,Gasoline,8-Speed Automatic,1.6L I4 16V GDI DOHC Turbo,10
+2023 Dodge Durango SRT 392,79939,All-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,5
+2023 Ford Bronco Badlands,60998,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,10
+2020 Ford Ranger Lariat,30977,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,60115
+2023 Acura Integra A-Spec,32995,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,11
+2022 Toyota Corolla Cross XLE,30598,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC,10
+2018 Ford Fusion Energi Titanium,22291,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,49518
+2023 Genesis G90 3.5T e-SC,100060,All-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1
+2023 Toyota Tundra Limited,60786,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5
+2023 Toyota Tundra SR5,60632,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5
+2023 Chevrolet Equinox 1LT,38900,All-wheel Drive,Gasoline,6-Speed Electronically Controlled Automatic with O,1.5L I4 16V GDI DOHC Turbo,1
+2023 Jeep Grand Cherokee Summit,63256,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,11
+2023 Cadillac XT5 Sport,59490,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,45
+2022 Jeep Grand Cherokee 4xe Summit,61755,Four-wheel Drive,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,5
+2023 Alfa Romeo Giulia Veloce,53415,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI SOHC Turbo,29
+2022 Ford Explorer Platinum,56625,Four-wheel Drive,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5
+2023 Genesis G90 3.5T E-SUPERCHARGER,,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,6
+2023 Volkswagen Jetta GLI 2.0T Autobahn,34781,Front-wheel Drive,Gasoline,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,7
+2023 Audi S4 3.0T Premium Plus,63600,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,5
+2023 Honda Passport TrailSport,43049,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,3
+2022 Chrysler 300 Touring L,34695,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2084
+2022 Mercedes-Benz Sprinter 2500 MIDWEST AUTOMOTIVE DESIGNS,209999,Four-wheel Drive,Diesel,7-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,288
+2023 Toyota Prius XLE,,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V DOHC Hybrid,10
+2023 Ford Bronco Badlands,59045,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,4
+2023 Mercedes-Benz EQB 300 Base 4MATIC,64605,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Land Rover Discovery Sport S,46000,Four-wheel Drive,Gasoline,Automatic,2L I-4 gasoline direct injection DOHC variable valve control,5955
+2023 Land Rover Range Rover Velar S,72455,Four-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,17
+2018 Volkswagen Tiguan 2.0T SEL,24683,All-wheel Drive,Gasoline,Automatic,2L I-4 gasoline direct injection DOHC variable valve control,38996
+2022 RAM 1500 Laramie,81622,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,
+2022 Hyundai Kona SEL,24452,All-wheel Drive,Gasoline,Variable,Regular Unleaded I-4 2.0 L122,6445
+2022 Nissan Altima 2.5 SR,29999,All-wheel Drive,Gasoline,Automatic CVT,2.5L I4 16V GDI DOHC,5319
+2023 Audi SQ5 3.0T Premium Plus,67305,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,6
+2023 Chevrolet Silverado 1500 LTZ,59739,Four-wheel Drive,Gasoline,Automatic,EcoTec3 5.3L V-8 gasoline direct injection variable valve contr,10
+2022 Ford Explorer XLT,49975,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,
+2020 Lincoln Navigator L Reserve,59496,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,52112
+2023 Genesis G90 3.5T,87220,All-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,9
+2023 Audi Q3 45 S line Premium,42970,All-wheel Drive,Gasoline,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 Kia Sorento EX,39285,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC Turbo,12
+2023 Cadillac CT5 Sport AWD,52650,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,492
+2023 Cadillac XT4 Premium Luxury,49515,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,42
+2020 Chevrolet Silverado 1500 Custom,34185,Four-wheel Drive,Gasoline,Automatic,4.3L V6 12V GDI OHV,38125
+2023 Volkswagen Atlas Cross Sport 3.6L V6 SE wTechnology,43996,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,3
+2022 Ford F-350 XLT,83760,Four-wheel Drive,Diesel,10-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel,2
+2022 Ford F-250 Lariat,68885,Four-wheel Drive,Gasoline,10-Speed Automatic,7.3L V8 16V MPFI OHV,3
+2023 Land Rover Defender 75th Limited Edition,97060,All-wheel Drive,Gasoline,Automatic,NoInfo,10
+2023 Land Rover Defender 90 X-Dynamic SE,83235,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,11
+2023 Mercedes-Benz GLE 350 Base 4MATIC,64650,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3542
+2023 Mercedes-Benz AMG G 63 4MATIC,201300,All-wheel Drive,Gasoline,Automatic,4.0L V8,21
+2023 Hyundai Sonata SE,26328,Front-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC,2
+2023 Mazda CX-50 2.5 Turbo,38199,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,143
+2023 Chevrolet Colorado Base,43785,Four-wheel Drive,Gasoline,Automatic,2.7L I-4 gasoline direct injection DOHC variable valve control,10
+2023 Honda Ridgeline RTL-E,48005,All-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI SOHC,8
+2023 Lincoln Navigator Reserve,103665,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5
+2022 Mercedes-Benz AMG SL 63 Base,196805,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,11
+2023 Kia EV6 GT-Line,59790,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Cadillac Escalade ESV Premium Luxury,112560,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,0
+2023 Kia Sorento Hybrid EX,41300,All-wheel Drive,Hybrid,6-Speed Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,14
+2022 RAM 3500 Tradesman,66595,Four-wheel Drive,Diesel,6-Speed Automatic,6.7L I6 24V DDI OHV Turbo Diesel,
+2023 Hyundai Palisade Limited,49635,Front-wheel Drive,Gasoline,,3.8L V6 24V GDI DOHC,10
+2023 Dodge Charger SXT,31337,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,12
+2022 Chevrolet Silverado 1500 Limited RST,72408,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,23
+2019 Ford Explorer XLT,25682,Four-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI DOHC,75014
+2024 Kia Seltos SX,35985,All-wheel Drive,Gasoline,8-Speed Automatic,1.6L I4,4
+2020 Toyota Highlander Limited,32490,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,139088
+2023 Ford Bronco Outer Banks Advanced,69335,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,4
+2023 Land Rover Defender 75th Limited Edition,96825,All-wheel Drive,Gasoline,Automatic,NoInfo,16
+2023 Mercedes-Benz AMG GLE 53 Base,90915,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,8
+2023 Acura Integra A-Spec,34495,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5
+2023 Lexus GX 460 Base,62335,Four-wheel Drive,Gasoline,6-Speed Automatic with Sequential Shift,4.6L V8 32V MPFI DOHC,9
+2023 Acura Integra A-Spec Technology,38095,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5
+2020 Subaru Legacy Touring XT,30976,All-wheel Drive,Gasoline,Automatic,2.4L H-4 gasoline direct injection DOHC variable valve control,30491
+2023 Toyota bZ4X Limited,51670,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Mazda CX-50 2.5 Turbo Meridian Edition,43065,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V,7
+2020 Chevrolet Silverado 1500 LT,39970,Four-wheel Drive,Gasoline,8-Speed Automatic,5.3L V8 16V GDI OHV,26034
+2023 INFINITI QX55 ESSENTIAL,55233,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC Turbo,5
+2023 Audi Q3 45 S line Premium Plus,48770,All-wheel Drive,Gasoline,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,13
+2023 Toyota Highlander Platinum,53999,All-wheel Drive,Gasoline,8-Speed Automatic,2.4L I4 16V PDI DOHC Turbo,2
+2023 BMW iX xDrive50,91495,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Mercedes-Benz S-Class S 500 4MATIC,130705,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,8
+2020 BMW 330 i,27992,Rear-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,60754
+2022 RAM 1500 Limited,74450,Four-wheel Drive,Diesel,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,
+2024 Chevrolet Silverado 2500 LT,61119,Four-wheel Drive,Gasoline,10-Speed Automatic,6.6L V8,4
+2023 Honda CR-V EX-L,37055,All-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,
+2022 Mercedes-Benz Sprinter 2500 144 WB,81995,Four-wheel Drive,Diesel,7-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,7
+2022 Toyota Tundra Platinum,65428,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,10
+2023 Land Rover Defender 110 X,100830,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,12
+2023 Mercedes-Benz GLE 350 Base 4MATIC,68780,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,7
+2023 Lexus GX 460 Base,64050,Four-wheel Drive,Gasoline,6-Speed Automatic with Sequential Shift,4.6L V8 32V MPFI DOHC,
+2019 BMW X1 sDrive28i,26591,Front-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,43973
+2023 BMW X1 xDrive28i,44195,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 Lexus RX 350h Premium,55235,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,11
+2020 Honda Accord LX 1.5T,24408,Front-wheel Drive,Gasoline,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L91,21828
+2024 Chevrolet Silverado 2500 High Country,84485,Four-wheel Drive,Gasoline,10-Speed Automatic,6.6L V8,6
+2023 Cadillac CT5 Premium Luxury AWD,50640,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,69
+2023 Toyota Corolla Hatchback SE,25397,Front-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC,7
+2023 Toyota Corolla XSE,29360,Front-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC,7
+2023 Maserati Grecale GT,68475,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,23
+2023 Lincoln Navigator L Reserve,107815,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,116
+2022 Ford Edge SEL,41880,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,4309
+2023 Ford Escape ST-Line Elite,47450,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V MPFI DOHC Hybrid,3
+2023 Nissan Armada Platinum,68830,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,1
+2023 Chevrolet Colorado Z71,48455,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,3
+2022 INFINITI Q60 3.0t Red Sport 400,56697,All-wheel Drive,Gasoline,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,7
+2023 Audi e-tron GT Premium Plus,107215,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Ford Expedition Max XLT,75000,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,10
+2023 Toyota Tundra Platinum,67376,Four-wheel Drive,Gasoline,OTHER,3.5L V6 24V PDI DOHC Twin Turbo,
+2023 Ford Bronco Wildtrak,77435,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,2
+2023 Subaru WRX Base,31778,All-wheel Drive,Gasoline,6-Speed Manual,2.4L H4 16V GDI DOHC Turbo,7
+2023 Toyota 4Runner TRD Off Road Premium,50914,Four-wheel Drive,Gasoline,5-Speed,4.0L V6 24V MPFI DOHC,10
+2023 Chevrolet Tahoe LT,73790,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V GDI OHV,0
+2023 Mercedes-Benz AMG C 43 Base 4MATIC,71460,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,11
+2023 Audi A5 45 S line Prestige,66965,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 Mercedes-Benz AMG GLA 45 Base,61760,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,5630
+2023 Audi A6 55 Premium Plus,65540,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 Maserati Levante Modena,118395,All-wheel Drive,Gasoline,ZF 8-Speed Automatic,3.0L V6,17
+2023 Mercedes-Benz AMG CLA 35 Base 4MATIC,55810,All-wheel Drive,Gasoline,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,5
+2023 Chevrolet Colorado Z71,45265,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,3
+2023 Land Rover Defender 75th Limited Edition,94560,Four-wheel Drive,Gasoline,Automatic,NoInfo,4
+2023 Chevrolet Colorado Z71,45660,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,3
+2021 Chevrolet Trailblazer RS,26300,Front-wheel Drive,Gasoline,Automatic CVT,1.3L I3 12V GDI DOHC Turbo,30922
+2023 Jeep Grand Cherokee Laredo,43348,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,5903
+2023 Kia Sportage X-Line,35485,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,10
+2020 Porsche Cayenne Turbo,89950,All-wheel Drive,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,30451
+2020 GMC Terrain Denali,32221,All-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,22488
+2023 Lincoln Aviator Black Label Grand Touring,93360,All-wheel Drive,Hybrid,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo Hybrid,
+2023 Jeep Wagoneer Base,65633,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,20
+2023 Land Rover Range Rover Velar P340 S R-Dynamic,74990,Four-wheel Drive,Gasoline,Automatic,Ingenium 3L I-6 gasoline direct injection DOHC variable valve,3266
+2023 Toyota Sienna XLE,,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,5
+2022 Lincoln Aviator Standard AWD,52701,All-wheel Drive,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,7224
+2023 Volvo XC90 B5 Plus,59458,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,4
+2023 Volvo XC90 B5 Plus,59458,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 Jeep Grand Cherokee Summit,63256,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,12
+2023 Dodge Charger SRT Hellcat Widebody,107415,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 16V MPFI OHV Supercharged,3
+2023 Jeep Grand Cherokee Overland,61910,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,7
+2022 RAM 1500 Laramie,50459,Rear-wheel Drive,Diesel,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,4
+2023 Maserati Levante GT,92685,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,31
+2023 Jaguar F-TYPE P450 R-Dynamic,97105,All-wheel Drive,Gasoline,Automatic,NoInfo,13
+2023 GMC Sierra 2500 Pro,48088,Four-wheel Drive,Gasoline,Automatic,6.6L V8 16V GDI OHV,2
+2023 Audi S5 3.0T Premium Plus,67750,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,17
+2023 Ford Bronco Big Bend,50605,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,9
+2022 Genesis G70 2.0T,41470,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,6811
+2022 Jeep Wrangler Unlimited Sport,68995,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,22
+2022 Jeep Grand Wagoneer Series III,99499,Four-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,5856
+2023 Subaru Outback Touring XT,41198,All-wheel Drive,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,34
+2023 Volvo XC60 Recharge Plug-In Hybrid T8 Ultimate Bright Theme,71635,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,5
+2022 Ford F-150 XLT,39750,Rear-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,13
+2023 Ford Transit-350 Base,63335,All-wheel Drive,Gasoline,10-Speed Automatic with Overdrive,3.5L V6 24V GDI DOHC Twin Turbo,
+2022 Volkswagen Tiguan 2.0T SE,31999,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,3467
+2023 Acura TLX Type S wPerformance Tire,58145,All-wheel Drive,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Turbo,5
+2023 Jeep Wrangler Rubicon 392,92855,Four-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,0
+2023 Mercedes-Benz EQB 250 Base,58170,Front-wheel Drive,Automatic,Electric,NoInfo,
+2023 Audi A6 55 Premium Plus,65540,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,10
+2023 Audi A3 Premium,41075,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,18
+2020 Ford Mustang EcoBoost,29995,Rear-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,7983
+2023 Honda Pilot TrailSport,51845,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,3
+2023 Volvo XC90 Recharge Plug-In Hybrid T8 Plus Bright Theme 7 Passenger,76130,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,2
+2021 Ford Bronco Sport Big Bend,29777,Four-wheel Drive,Gasoline,8-Speed Automatic,1.5L I3 12V PDI DOHC Turbo,28495
+2023 Jeep Grand Cherokee 4xe Summit,73927,Four-wheel Drive,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,12
+2023 Kia Niro EV Wave,41982,Front-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Jeep Wrangler Sport,43410,Four-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,8
+2021 Mazda CX-30 Premium Package,23991,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V,16524
+2023 Lexus GX 460 Base,61700,Four-wheel Drive,Gasoline,6-Speed Automatic,4.6L V8 32V MPFI DOHC,
+2023 Kia Telluride SX-Prestige,58267,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,3
+2023 Volkswagen Atlas Cross Sport 2.0T SEL R-Line Black,47294,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,3
+2023 Mercedes-Benz AMG GLB 35 Base,62415,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,298
+2023 Mercedes-Benz EQS 450 Base 4MATIC,122820,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 Land Rover Defender X,109630,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,10
+2020 Audi Q3 45 S line Premium Plus,31591,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,48813
+2023 Hyundai Elantra SEL,24936,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V MPFI DOHC,5
+2023 Volvo S60 B5 Plus Black Edition,50081,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3
+2023 Chevrolet Tahoe Z71,72585,Four-wheel Drive,Gasoline,10-Speed Automatic with Overdrive,5.3L V8 16V GDI OHV,1
+2023 Acura Integra wA-Spec Tech Package,38095,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,3
+2023 Audi Q5 e 55 S line quattro Premium,69285,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,14
+2023 Audi Q8 55 Premium Plus,81785,All-wheel Drive,Gasoline,Automatic with Tiptronic,3.0L V6 24V GDI DOHC Turbo,19
+2024 BMW X7 xDrive40i,95795,All-wheel Drive,Gasoline,Automatic,NoInfo,7
+2023 Chevrolet Traverse RS,48737,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,2
+2023 Chevrolet Tahoe Z71,76485,Four-wheel Drive,Gasoline,10-Speed Automatic with Overdrive,6.2L V8 16V GDI OHV,2
+2023 Volvo XC60 Recharge Plug-In Hybrid T8 Ultimate Bright Theme,71250,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,5
+2019 Jeep Cherokee Trailhawk,24577,Four-wheel Drive,Gasoline,9-Speed Automatic,3.2L V6 24V MPFI DOHC,48375
+2013 Volkswagen Touareg Sport,14952,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,74594
+2023 Audi e-tron S Premium Plus,95495,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2022 Ford F-150 Lariat,81330,Four-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,12
+2022 Ford F-150 XLT,42000,Rear-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,15
+2023 Acura Integra A-Spec,33595,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,11
+2023 GMC Canyon Base,52870,Four-wheel Drive,Gasoline,Automatic,2.7L I-4 gasoline direct injection DOHC variable valve control,1
+2023 Lincoln Navigator Reserve,107540,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,19
+2023 Lincoln Navigator Reserve,107500,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,20
+2024 BMW ALPINA XB7,154345,NoInfo,Gasoline,Automatic,4.4L V8,9
+2023 Nissan Frontier SV,39838,Four-wheel Drive,Gasoline,Automatic,3.8L V6 24V GDI DOHC,12
+2022 Chrysler 300 Touring,29058,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,683
+2023 Volvo XC90 B6 Plus 6-Seater,62143,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,5
+2023 GMC Sierra 1500 Denali Ultimate,82940,Four-wheel Drive,Diesel,10-Speed Automatic,3.0L I6 24V DDI DOHC Turbo Diesel,5
+2023 Nissan ARIYA VENTURE,48485,Front-wheel Drive,Automatic CVT,Electric,NoInfo,
+2023 Hyundai Palisade Limited,50800,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,3.8L V6 24V GDI DOHC,4282
+2023 Honda Passport EX-L,42900,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,3
+2023 Acura Integra wA-Spec Tech Package,38095,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,3
+2023 Mercedes-Benz AMG C 43 Base 4MATIC,82500,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,10
+2023 Cadillac XT6 Sport AWD,64960,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,3
+2023 Nissan Pathfinder Platinum,53310,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,1
+2023 Jeep Wagoneer Series III,73875,Four-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,10
+2023 Chevrolet Silverado 1500 ZR2,78609,Four-wheel Drive,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,2
+2022 Ford F-150 Lariat,78950,Four-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,25
+2021 Honda Accord Hybrid EX-L,30493,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,32720
+2023 Toyota Camry XSE V6,41460,Front-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC,
+2023 Nissan Pathfinder SL,43914,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,2
+2023 Mercedes-Benz GLS 450 4MATIC,98855,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,5
+2023 Land Rover Discovery P300 S R-Dynamic,70330,Four-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,11
+2017 Cadillac XT5 Luxury,22291,Front-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,57045
+2023 Mercedes-Benz AMG GLE 53 Base,,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,5
+2023 Hyundai Tucson Hybrid SEL Convenience,36705,All-wheel Drive,Hybrid,Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,1
+2024 Chevrolet Trax ACTIV,26540,Front-wheel Drive,Gasoline,Automatic,1.2L 3 Cylinder,3
+2023 Subaru Ascent Limited 7-Passenger,44150,All-wheel Drive,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,6
+2023 Chevrolet Corvette Stingray w2LT,94720,Rear-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,2
+2022 Chevrolet Equinox 1LT,27940,Front-wheel Drive,Gasoline,Automatic,1.5L I-4 gasoline direct injection DOHC VVT variable valve con,11
+2022 Ford F-150 Tremor,59145,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,10
+2022 RAM 1500 Big Horn,51773,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,2
+2022 Mercedes-Benz GLC 300 Base 4MATIC,52210,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,8768
+2023 Audi S5 3.0T Premium Plus,67835,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,10
+2023 Nissan Pathfinder SL,44591,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,2
+2023 Cadillac XT5 Sport,60090,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,2
+2023 Honda Passport EX-L,40503,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,3
+2023 Kia Niro EV Wave,42595,Front-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Kia Telluride SX,52780,Front-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,12
+2023 GMC Yukon XL SLT,73690,Four-wheel Drive,Gasoline,10-Speed Automatic with Overdrive,5.3L V8 16V GDI OHV,2
+2023 Nissan Rogue SV,34998,All-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,2
+2023 Ford F-150 XL,49985,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,1177
+2023 Mercedes-Benz AMG GLE 53 Base,87285,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,7
+2023 Mercedes-Benz AMG GLE 53 Base,89420,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,20
+2022 Mercedes-Benz AMG SL 63 Base,190900,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,5
+2023 Jeep Wagoneer L Series III,91145,Four-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,
+2023 Ford Expedition Limited,79125,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,4
+2023 Nissan Frontier PRO-4X,42258,Four-wheel Drive,Gasoline,Automatic,3.8L V6 24V GDI DOHC,6
+2023 Aston Martin DBX 707,255000,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,28
+2023 Land Rover Defender 110 S,72415,Four-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,24
+2023 Audi Q5 e 55 S line quattro Premium,61875,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,14
+2022 Mercedes-Benz GLB 250 Base 4MATIC,48050,All-wheel Drive,Gasoline,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,5241
+2022 Mercedes-Benz AMG SL 63 Base,200955,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,22
+2023 INFINITI QX80 SENSORY,90098,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,5
+2023 Maserati Levante Modena S,149940,All-wheel Drive,Gasoline,ZF 8-Speed Automatic,3.8L V8 32V GDI DOHC Twin Turbo,19
+2023 Cadillac XT4 Sport,45875,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3
+2023 Chevrolet Colorado Z71,45265,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,3
+2022 Hyundai Santa Fe XRT,32390,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,9551
+2023 Volvo XC90 Recharge Plug-In Hybrid T8 Plus 6 Passenger,79730,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,5
+2021 Audi e-tron Premium Plus,48880,All-wheel Drive,Gasoline,1-Speed Automatic,NoInfo,31013
+2023 Mazda CX-5 2.5 S Carbon Edition,32515,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,6
+2023 Mercedes-Benz EQE 350 350,,NoInfo,,1-Speed Automatic,NoInfo,8
+2023 Land Rover Defender 110 X-Dynamic SE,88165,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,10
+2022 Mercedes-Benz AMG SL 63 Base,196085,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,22
+2023 BMW X1 xDrive28i,42705,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,9
+2023 Hyundai Tucson Hybrid SEL Convenience,36325,All-wheel Drive,Hybrid,Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,1
+2017 Hyundai Elantra SE,11970,Front-wheel Drive,Gasoline,6-Speed Automatic,2.0L I4 16V GDI DOHC,86661
+2022 Jeep Cherokee Latitude Lux,28095,Front-wheel Drive,Gasoline,9-Speed Automatic,3.2L V6 24V MPFI DOHC,7100
+2023 Cadillac XT4 Sport,49999,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3397
+2023 Land Rover Defender 75th Limited Edition,97210,Four-wheel Drive,Gasoline,Automatic,NoInfo,14
+2023 Hyundai Sonata SEL,28093,Front-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC,11
+2023 Land Rover Defender X-Dynamic SE,94180,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,12
+2023 Audi SQ8 4.0T quattro Premium Plus,113990,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,10
+2023 Ford Explorer ST-Line,48670,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,6
+2024 Mazda CX-90 Premium,50945,All-wheel Drive,Gasoline,8-Speed Automatic,NoInfo,23
+2023 RAM 1500 Limited,68824,Four-wheel Drive,Diesel,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,9
+2023 Volvo V90 Cross Country B6 Ultimate,67820,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3777
+2023 Acura Integra A-Spec,35095,Front-wheel Drive,Gasoline,Automatic,1.5L I-4 gasoline direct injection DOHC VTEC variable valve co,10
+2023 Audi Q7 55 Prestige,86825,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,11
+2022 Dodge Challenger RT Scat Pack,46663,Rear-wheel Drive,Gasoline,6-Speed Manual,6.4L V8 16V MPFI OHV,2
+2023 Land Rover Defender 110 V8,115330,Four-wheel Drive,Gasoline,Automatic,5.0L V8 32V GDI DOHC Supercharged,8
+2018 Toyota RAV4 XLE,26990,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V MPFI DOHC,39002
+2023 Mercedes-Benz C-Class C 300 4MATIC,54605,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1879
+2023 Land Rover Defender 90 X-Dynamic SE,88990,Four-wheel Drive,Gasoline,Automatic,Ingenium 3L I-6 gasoline direct injection DOHC CVVL variable v,1200
+2023 BMW M8 Competition,144795,All-wheel Drive,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,19
+2020 BMW M760 i xDrive,82888,All-wheel Drive,Gasoline,8-Speed Automatic,6.6L V12 48V GDI DOHC Twin Turbo,16922
+2020 Audi Q5 e 55 Premium,36444,All-wheel Drive,Hybrid,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Hybrid,39341
+2022 Audi Q5 e 55 S line quattro Premium,56880,All-wheel Drive,Hybrid,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Hybrid,2164
+2022 Mercedes-Benz AMG CLA 45 Base 4MATIC,66984,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,9597
+2019 Volvo S60 Hybrid T8 Inscription,34920,All-wheel Drive,Gasoline,Automatic,Drive-E 2L I-4 gasoline direct injection DOHC variable valve c,38921
+2016 Volvo V60 Cross Country T5,20389,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I5 20V MPFI DOHC Turbo,86802
+2016 INFINITI Q50 2.0T Premium,17450,All-wheel Drive,Gasoline,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,76059
+2019 Volvo XC40 T5 Inscription,30500,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,21953
+2021 Audi Q5 e 55 Premium,47599,All-wheel Drive,Hybrid,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Hybrid,12962
+2021 Audi A6 allroad 55 quattro Premium Plus,63296,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Turbo,16193
+2022 Audi S6 2.9T Premium Plus,75222,All-wheel Drive,Gasoline,Automatic,2.9L V6 24V GDI DOHC Twin Turbo,11731
+2018 Lotus Evora 400 Base,83559,Rear-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI DOHC Supercharged,12100
+2005 Rolls-Royce Phantom VI,69995,Rear-wheel Drive,Gasoline,6-Speed Automatic,6.8L V12 48V GDI DOHC,77188
+2023 GMC Yukon XL SLT,73145,Four-wheel Drive,Gasoline,10-Speed Automatic with Overdrive,5.3L V8 16V GDI OHV,1
+2023 Toyota Tundra Platinum,66815,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,4
+2023 Cadillac Escalade Premium Luxury,109560,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,4
+2023 Land Rover Defender 90 Carpathian Edition,118620,Four-wheel Drive,Gasoline,Automatic,5.0L V8 32V GDI DOHC Supercharged,3
+2024 Lexus NX 350h,,NoInfo,Gasoline,1-Speed CVT with Overdrive,NoInfo,0
+2023 Kia Forte GT-Line,28215,Front-wheel Drive,Gasoline,IVT,2.0L I4 16V MPFI DOHC,2
+2019 Subaru Crosstrek Hybrid Base,28545,All-wheel Drive,Hybrid,Automatic CVT,2.0L H4 16V GDI DOHC Hybrid,65740
+2006 Chrysler 300C SRT-8,18495,Rear-wheel Drive,Gasoline,5-Speed Automatic,6.1L V8 16V MPFI OHV,85221
+2018 Ford Focus RS Base,42888,All-wheel Drive,Gasoline,6-Speed Manual,2.3L I4 16V GDI DOHC Turbo,25183
+2018 Lexus RC 350 Base,39888,All-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V PDI DOHC,23182
+2014 Jaguar XJ Base,24995,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,39819
+2015 Lexus RC F Base,54995,Rear-wheel Drive,Gasoline,8-Speed Automatic,5.0L V8 32V PDI DOHC,70225
+2000 Acura Integra LS 2dr Hatchback,16995,Front-wheel Drive,Gasoline,Manual 5-Speed,1.8L I4,77800
+2013 BMW 740 Li,18985,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,80403
+2020 BMW M760 i xDrive,96787,All-wheel Drive,Gasoline,8-Speed Automatic,6.6L V12 48V GDI DOHC Twin Turbo,12955
+2022 BMW M235 Gran Coupe i xDrive,47866,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,8178
+2012 Nissan 370Z Touring,23550,Rear-wheel Drive,Gasoline,7-Speed Automatic,3.7L V6 24V MPFI DOHC,46465
+2017 GMC Savana 2500 Work Van,42950,Rear-wheel Drive,Gasoline,Automatic,6.0L V8 16V MPFI OHV,86099
+2017 Lexus IS 350 Base,31092,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,46737
+2020 Jeep Grand Cherokee Limited,33385,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,54335
+2009 BMW 528 i xDrive,10620,All-wheel Drive,Gasoline,6-Speed Automatic,3.0L I6 24V MPFI DOHC,69578
+2022 Cadillac CT4-V V-Series Blackwing,67990,Rear-wheel Drive,Gasoline,10-Speed Automatic,3.6L V6 24V GDI DOHC Twin Turbo,3305
+1988 Chevrolet Caprice Classic Brougham 4dr Sedan,24995,Rear-wheel Drive,Gasoline,Automatic 4-Speed,5.0L V8,63518
+2013 Ferrari FF Base,109995,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,6.3L V12 48V GDI DOHC,50066
+1999 Rolls-Royce Silver Seraph V12,34999,Rear-wheel Drive,Gasoline,5-Speed Automatic,5.4L V12 24V MPFI SOHC,62100
+2010 Nissan GT-R Premium,62495,All-wheel Drive,Gasoline,6-Speed Automatic with Auto-Shift,3.8L V6 24V MPFI DOHC Twin Turbo,43506
+2023 Honda Ridgeline RTL-E,44030,All-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5
+2012 Nissan 370Z Touring,26599,Rear-wheel Drive,Gasoline,6-Speed Manual,3.7L V6 24V MPFI DOHC,14807
+2023 Honda HR-V LX,26595,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,10
+2023 Toyota Tundra Hybrid 1794 Edition,68522,Four-wheel Drive,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,2
+2023 Honda CR-V Hybrid Sport Touring,40395,All-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,3
+2022 Honda Insight Touring,30800,Front-wheel Drive,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,16725
+2016 Dodge Viper GTS,153800,Rear-wheel Drive,Gasoline,6-Speed Manual,8.4L V10 20V MPFI OHV,5559
+2003 Dodge Dakota Sport,23800,Rear-wheel Drive,Gasoline,5-Speed Automatic,3.9L V6 12V MPFI OHV,17815
+2006 Pontiac GTO,29800,Rear-wheel Drive,Gasoline,6-Speed Manual,6.0L V8 16V MPFI OHV,22335
+2016 Mercedes-Benz AMG GLA AMG GLA 45 4MATIC,27717,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,75580
+2023 GMC Sierra 1500 AT4,74370,Four-wheel Drive,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,12
+2023 Lexus NX 450h Luxury,68995,All-wheel Drive,Gasoline,Automatic CVT,2.5L I4 16V DOHC,2102
+2012 BMW M3 Base,32276,Rear-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,4.0L V8 32V MPFI DOHC,58309
+2009 Nissan 370Z NISMO,18900,Rear-wheel Drive,Gasoline,6-Speed Manual,3.7L V6 24V MPFI DOHC,79964
+2023 Land Rover Defender 75th Edition,94360,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,15
+2023 Toyota Corolla Cross XLE,32912,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC,3
+2023 Land Rover Defender 110 SE,81790,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,11
+2015 Aston Martin V12 Vantage S Base,139900,Rear-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,6.0L V12 48V MPFI DOHC,915
+2022 BMW 430 Gran Coupe i,41399,Rear-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,10133
+2024 GMC Sierra 2500 Base,59362,Four-wheel Drive,Diesel,Automatic,Duramax 6.6L V-8 diesel direct injection intercooled turbo die,1
+2022 RAM 1500 Limited,72670,Four-wheel Drive,Diesel,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,
+2023 RAM 1500 TRX,96065,Four-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 16V MPFI OHV Supercharged,18
+2023 Chevrolet Blazer 2LT,38685,Front-wheel Drive,Gasoline,9-Speed Automatic with Overdrive,2.0L I4 16V GDI DOHC Turbo,10
+2023 Chevrolet Tahoe High Country,90910,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,2
+2023 Hyundai Elantra N Line,28088,Front-wheel Drive,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,57
+2023 Ford Mustang GT Premium,53490,Rear-wheel Drive,Gasoline,Automatic,5.0L V8 32V PDI DOHC,5
+2022 Ford F-150 Lariat,69275,Four-wheel Drive,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,0
+2023 Honda Odyssey Sport,42705,Front-wheel Drive,Gasoline,Automatic,Regular Unleaded V-6 3.5 L212,0
+2023 Mercedes-Benz C-Class C 300 4MATIC,60435,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,998
+2023 Lexus NX 350 Premium,49345,All-wheel Drive,Gasoline,8-Speed Automatic,2.4L I4 16V PDI DOHC Turbo,3
+2023 INFINITI Q50 RED SPORT 400,63355,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5
+2023 Aston Martin DBX 707,279786,All-wheel Drive,Gasoline,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,15
+2023 Cadillac XT5 Sport,60605,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,3
+2023 Audi Q4 e-tron 50 Premium Plus,65340,All-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2017 Kia Cadenza Premium,19459,Front-wheel Drive,Gasoline,8-Speed Automatic,3.3L V6 24V GDI DOHC,58168
+2022 Dodge Challenger SRT Hellcat,95770,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 16V MPFI OHV Supercharged,10
+2023 Acura MDX A-Spec,57645,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,11
+2023 Acura TLX Type S,54845,All-wheel Drive,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Turbo,11
+2022 Ford Explorer Limited,48404,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,5
+2022 Ford F-250 XL,59330,Four-wheel Drive,E85 Flex Fuel,Automatic,6.2L V8 16V MPFI SOHC Flexible Fuel,22
+2023 BMW M340 i xDrive,64545,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,9
+2024 BMW 430 i xDrive,55745,NoInfo,Gasoline,Automatic,2.0L 4 Cyl. Turbo,14
+2024 Subaru Crosstrek Premium,30887,All-wheel Drive,Gasoline,Automatic CVT,NoInfo,0
+2022 RAM 3500 Limited,90315,Four-wheel Drive,Diesel,Aisin 6-Speed Automatic,6.7L I6 24V DDI OHV Turbo Diesel,26
+2023 Chevrolet Trailblazer RS,30215,Front-wheel Drive,Gasoline,Automatic CVT,1.3L I3 12V GDI DOHC Turbo,1
+2023 Acura Integra wA-Spec Tech Package,38095,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,3
+2023 Honda Accord Hybrid EX-L,34540,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,12
+2023 Ford Mustang Mach-E GT,71195,All-wheel Drive,Automatic,Electric,NoInfo,
+2016 Lexus GS 350 Base,28774,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,69536
+2023 INFINITI QX50 SPORT,52630,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC Turbo,5
+2023 Mercedes-Benz AMG C 43 Base 4MATIC,73540,All-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 16V PDI DOHC Turbo,2
+2024 Chevrolet Silverado 2500 Custom,56635,Four-wheel Drive,Gasoline,10-Speed Automatic,6.6L V8,3
+2023 Volvo XC90 Recharge Plug-In Hybrid T8 Plus Bright Theme 7 Passenger,78230,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,4
+2023 Genesis GV80 2.5T,57220,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,7698
+2023 Chevrolet Traverse LT Leather,39495,Front-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,3
+2023 Mercedes-Benz EQE 350 350,,NoInfo,,1-Speed Automatic,NoInfo,8
+2022 Ford Explorer Platinum,55594,Four-wheel Drive,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5
+2022 Maserati Levante GT,80995,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,21
+2023 Land Rover Discovery Sport S,47990,Four-wheel Drive,Gasoline,Automatic,2L I-4 gasoline direct injection DOHC variable valve control,1200
+2018 BMW M760 i xDrive,45950,All-wheel Drive,Gasoline,8-Speed Automatic,6.6L V12 48V GDI DOHC Twin Turbo,96999
+2023 Ford Bronco,55520,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,5
+2023 GMC Sierra 1500 Elevation,56083,Four-wheel Drive,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,5
+2020 Jeep Grand Cherokee Limited,32794,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,29206
+2023 Chevrolet Traverse RS,45545,Front-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,1
+2022 Ford Escape S,29565,Front-wheel Drive,Gasoline,8-Speed Automatic,1.5L I3 12V PDI DOHC Turbo,20107
+2023 Aston Martin DBX 707,274986,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,25
+2023 Chevrolet Colorado LT,52190,Four-wheel Drive,Gasoline,Automatic,2.7L I-4 gasoline direct injection DOHC variable valve control,10
+2022 GMC Sierra 1500 SLE,58950,Four-wheel Drive,Diesel,10-Speed Automatic,3.0L I6 24V DDI DOHC Turbo Diesel,1
+2023 Ford F-150 Lariat,80405,Four-wheel Drive,Hybrid,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,3923
+2023 BMW iX M60,119695,All-wheel Drive,Automatic,Electric,NoInfo,
+2023 BMW i4 Gran Coupe M50,74950,All-wheel Drive,Automatic,Electric,NoInfo,
+2022 RAM 2500 Power Wagon,65275,Four-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,
+2022 BMW M760 i xDrive,126996,All-wheel Drive,Gasoline,8-Speed Automatic,6.6L V12 48V GDI DOHC Twin Turbo,9704
+2023 Audi S4 3.0T Premium Plus,61020,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,9
+2023 Hyundai Palisade Calligraphy,51976,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,3.8L V6 24V GDI DOHC,7975
+2007 Lexus GS 430,18977,Rear-wheel Drive,Gasoline,6-Speed Automatic,4.3L V8 32V MPFI DOHC,40451
+2023 Jeep Wrangler Sport,36595,Four-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,9
+2021 BMW X4 M AWD,61399,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,14769
+2023 Land Rover Range Rover Sport SE Dynamic,106010,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,0
+2023 Jaguar F-PACE S P250 AWD Automatic,59490,All-wheel Drive,Gasoline,Automatic,2L I-4 gasoline direct injection DOHC variable valve control,1500
+2023 Volvo XC40 B5 Ultimate Dark Theme,47646,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,5
+2024 Subaru Crosstrek Premium,28642,All-wheel Drive,Gasoline,Automatic CVT,NoInfo,0
+2023 Land Rover Range Rover Velar S R-Dynamic,85145,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,12
+2023 Audi A4 40 Prestige,46477,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,6068
+2020 BMW M760 i xDrive,79990,All-wheel Drive,Gasoline,8-Speed Automatic,6.6L V12 48V GDI DOHC Twin Turbo,35331
+2023 Ford Mustang Mach-E GT,71370,All-wheel Drive,Automatic,Electric,NoInfo,
+2024 Kia Seltos S,28385,All-wheel Drive,Gasoline,IVT,2.0L I4 MPI DOHC 16V,4
+2022 Volkswagen Atlas Cross Sport 3.6L V6 SE wTechnology,35795,All-wheel Drive,Gasoline,8-Speed Automatic with Tiptronic,3.6L V6 24V GDI DOHC,5234
+2023 Kia Sportage X-Line,34565,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,10
+2023 Jeep Wagoneer Series II,66128,Four-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,10
+2023 Chevrolet Colorado Z71,45760,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,3
+2019 Jeep Wrangler Unlimited Sport,31800,Four-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,52576
+2023 Subaru WRX GT,45324,All-wheel Drive,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,4
+2023 Audi Q7 55 Premium Plus,70755,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,5
+2023 Jeep Wagoneer Series II,68424,Four-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,12
+2023 Dodge Challenger SRT Hellcat,74419,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.2L V8 16V MPFI OHV Supercharged,11
+2023 Acura Integra A-Spec Technology,38095,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,10
+2023 Mercedes-Benz GLS 450 4MATIC,86710,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,10
+2023 Land Rover Range Rover Evoque R-Dynamic SE,58100,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,7
+2023 Ford Edge Titanium,41495,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,2725
+2023 Hyundai Santa Cruz 2.5T NIGHT,37262,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,3
+2023 Hyundai Tucson Hybrid SEL Convenience,36255,All-wheel Drive,Hybrid,Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,1
+2023 Subaru Legacy Sport,35400,All-wheel Drive,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,3
+2023 Mazda CX-50 2.5 S Preferred Plus Package,33850,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,10
+1984 Porsche 944,16995,Rear-wheel Drive,Gasoline,5-Speed,2.5L I4 8V SOHC,60788
+2024 BMW X5 xDrive40i,73050,All-wheel Drive,Gasoline,Automatic,NoInfo,10
+2023 Aston Martin DBX 707,270686,All-wheel Drive,Gasoline,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,21
+2019 Porsche Panamera E-Hybrid 4,82880,All-wheel Drive,Hybrid,8-Speed Automatic with Auto-Shift,2.9L V6 24V GDI DOHC Twin Turbo Hybrid,7224
+2023 GMC Acadia AT4,46780,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,3
+2019 Chevrolet Traverse LT Cloth,28573,Front-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,47423
+2022 RAM 2500 Limited,82559,Four-wheel Drive,Diesel,6-Speed Automatic,6.7L I6 24V DDI OHV Turbo Diesel,31
+2023 Kia Sportage SX-Prestige,36685,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,10
+2023 Kia Forte GT-Line,26215,Front-wheel Drive,Gasoline,IVT,2.0L I4 16V MPFI DOHC,10
+2023 Kia EV6 Wind,46450,Rear-wheel Drive,1-Speed Automatic,Electric,NoInfo,
+2023 Ford F-350 XL,69000,Four-wheel Drive,Diesel,10-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel,10
+2021 Jeep Grand Cherokee L Summit,53495,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,15531
+2023 INFINITI QX55 LUXE,48700,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC Turbo,5
+2023 Toyota Corolla Hybrid LE,,All-wheel Drive,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,11
+2023 Volkswagen ID.4 Pro S,51586,Rear-wheel Drive,1-Speed Automatic,0.0L,NoInfo,
+2023 BMW 760 760i xDrive,122775,All-wheel Drive,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,24
+2023 Hyundai Tucson SEL,34715,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC,2
+2022 Lincoln Aviator Standard AWD,53137,All-wheel Drive,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,6
+2023 Dodge Durango SRT Hellcat Premium AWD,102180,All-wheel Drive,Gasoline,Automatic,HEMI 6.2L V-8 intercooled supercharger engine with 710HP,2
+2020 BMW X4 M Competition,58489,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,43751
+2023 Nissan Pathfinder Rock Creek,42199,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,6
+2023 Chevrolet Camaro 2SS,58620,Rear-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,2
+2023 Hyundai Kona SEL,25666,Front-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,5
+2023 Toyota Tacoma SR5,31392,NoInfo,Gasoline,Automatic,2.7L I4 16V MPFI DOHC,0
+2023 Honda Accord Hybrid Sport-L,35425,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,8
+2023 Ford F-150 Platinum,77085,Four-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,
+2023 BMW X5 M50i,94385,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,4
+2023 Mercedes-Benz GLB 250 Base 4MATIC,53545,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,1641
+2015 BMW X4 xDrive35i,25495,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,61728
+2023 Mercedes-Benz S-Class S 500 4MATIC,127745,All-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,10
+2022 Genesis GV80 3.5T,58786,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,22797
+2023 Cadillac XT5 Sport,59490,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,7
+2023 Volvo XC90 Recharge Plug-In Hybrid T8 Plus 6 Passenger,76630,All-wheel Drive,Hybrid,Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,5
+2023 Jeep Grand Cherokee Summit,60008,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,10
+2022 Jeep Grand Wagoneer Series I,85840,Four-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,8068
+2019 Audi Q7 55 Prestige,42990,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,43092
+2023 Acura RDX A-Spec Advance,54745,All-wheel Drive,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,5
+2022 Ford F-150 XLT,57688,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,11
+2019 Cadillac CT6-V 4.2L Blackwing Twin Turbo,68733,All-wheel Drive,Gasoline,10-Speed Automatic,4.2L V8 32V GDI DOHC Twin Turbo,47073
+2023 Hyundai IONIQ 6 SEL,49230,Rear-wheel Drive,,1-Speed Automatic,NoInfo,1
+2023 Chevrolet Silverado 1500 Custom Trail Boss,52942,Four-wheel Drive,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,10
+2023 Maserati Levante Modena,103095,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,20
+2023 Chevrolet Tahoe Premier,82405,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V GDI OHV,3
+2023 Aston Martin DBX Base,235986,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,25
+2023 Toyota Corolla Cross L,26504,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC,5
+2022 Mercedes-Benz EQS 580 Base 4MATIC,99999,All-wheel Drive,SINGLE SPEED FIXED GEAR,Electric,NoInfo,
+2023 Cadillac XT6 Sport AWD,66910,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,225
+2023 Cadillac XT5 Sport,60090,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,3
+2023 Genesis GV70 2.5T,53565,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,5
+2023 Audi Q8 55 Premium Plus,84030,All-wheel Drive,Gasoline,Automatic with Tiptronic,3.0L V6 24V GDI DOHC Turbo,5
+2023 Genesis GV70 2.5T,,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC Turbo,13
+2023 Dodge Charger Scat Pack,63651,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,9
+2023 Ford Mustang Mach 1,69500,Rear-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,10
+2022 Mercedes-Benz Sprinter 2500 MIDWEST AUTOMOTIVE DESIGNS,224995,Four-wheel Drive,Diesel,7-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,156
+2023 Acura TLX A-Spec,45295,Front-wheel Drive,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,11
+2023 Chevrolet Colorado Trail Boss,43185,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,6
